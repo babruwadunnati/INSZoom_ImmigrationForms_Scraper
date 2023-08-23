@@ -1,0 +1,66 @@
+﻿@model IEnumerable<ZoomScraper.Models.Change>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<body>
+    <h2>Change</h2><br />
+    @using (Html.BeginForm(FormMethod.Post))
+    {
+        <input type="submit" value="Change Table" formaction="@Url.Action("Change", "Home")" />
+        <input type="submit" value="Forms" formaction="@Url.Action("Forms", "Home")" />
+        <input type="submit" value="Instructions" formaction="@Url.Action("Instructions", "Home")" />
+    }
+
+
+
+
+    <br />
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Change_time)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Change_type)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Old_id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.New_id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Page_id)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Change_time)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Change_type)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Old_id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.New_id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Page_id)
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>

@@ -1,0 +1,186 @@
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\ApplicationInsights.config
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\ZoomScraper.dll.config
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\ZoomScraper.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\ZoomScraper.pdb
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\csc.exe
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\csc.exe.config
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\csc.rsp
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\csi.exe
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\csi.exe.config
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\csi.rsp
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.AppContext.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Console.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\vbc.exe
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\vbc.exe.config
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\vbc.rsp
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Antlr3.Runtime.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.AI.Web.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Newtonsoft.Json.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.Helpers.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.Mvc.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.Optimization.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.Razor.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\WebGrease.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.Helpers.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.Mvc.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.Optimization.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.Razor.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Newtonsoft.Json.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Antlr3.Runtime.pdb
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.AI.Web.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\obj\Debug\ZoomScraper.csprojAssemblyReference.cache
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\obj\Debug\ZoomScraper.csproj.CoreCompileInputs.cache
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\obj\Debug\ZoomScraper.csproj.CopyComplete
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\obj\Debug\ZoomScraper.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\obj\Debug\ZoomScraper.pdb
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Dapper.dll
+C:\Users\Sagar Bammigatti\source\repos\ZoomScraper\ZoomScraper\bin\Dapper.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\ApplicationInsights.config
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\ZoomScraper.dll.config
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\ZoomScraper.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\ZoomScraper.pdb
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\csc.exe
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\csc.exe.config
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\csc.rsp
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\csi.exe
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\csi.exe.config
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\csi.rsp
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.AppContext.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Console.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.IO.Compression.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Claims.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.ValueTuple.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\vbc.exe
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\vbc.exe.config
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\vbc.rsp
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\VBCSCompiler.exe
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Antlr3.Runtime.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Dapper.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.AI.Web.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Newtonsoft.Json.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.Helpers.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.Mvc.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.Optimization.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.Razor.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.Razor.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\WebGrease.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Dapper.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.Helpers.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.Mvc.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.Optimization.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.Razor.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Web.WebPages.Razor.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Newtonsoft.Json.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Antlr3.Runtime.pdb
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.AI.Web.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\obj\Debug\ZoomScraper.csprojAssemblyReference.cache
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\obj\Debug\ZoomScraper.csproj.CoreCompileInputs.cache
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\obj\Debug\ZoomScraper.csproj.CopyComplete
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\obj\Debug\ZoomScraper.dll
+C:\Users\Unnati\Desktop\ZoomScraper\ZoomScraper\obj\Debug\ZoomScraper.pdb

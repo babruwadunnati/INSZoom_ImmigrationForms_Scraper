@@ -1,0 +1,200 @@
+C:\Users\Unnati\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.deps.json
+C:\Users\Unnati\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.json
+C:\Users\Unnati\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.dev.json
+C:\Users\Unnati\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csprojAssemblyReference.cache
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CoreCompileInputs.cache
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cache
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfoInputs.cache
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfo.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.input.cache
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.output.cache
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorCoreGenerate.cache
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cache
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Unnati\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.dll
+C:\Users\Unnati\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CopyComplete
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Inszoom\Index.g.cshtml.cs
+C:\Users\Unnati\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Inszoom\AddGroupMeeting.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.deps.json
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.json
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.dev.json
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.dll
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csprojAssemblyReference.cache
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CoreCompileInputs.cache
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cache
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfoInputs.cache
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfo.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.input.cache
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.output.cache
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorCoreGenerate.cache
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Inszoom\AddGroupMeeting.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Inszoom\Index.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cache
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cs
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Sagar Bammigatti\source\repos\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CopyComplete
+C:\Users\Unnati\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.deps.json
+C:\Users\Unnati\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.json
+C:\Users\Unnati\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.dev.json
+C:\Users\Unnati\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Unnati\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Unnati\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.dll
+C:\Users\Unnati\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csprojAssemblyReference.cache
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CoreCompileInputs.cache
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cache
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfoInputs.cache
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfo.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.input.cache
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.output.cache
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorCoreGenerate.cache
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cache
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cs
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CopyComplete
+C:\Users\Unnati\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Inszoom\Index.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csprojAssemblyReference.cache
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CoreCompileInputs.cache
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cache
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfoInputs.cache
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfo.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.deps.json
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.json
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.dev.json
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.dll
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.input.cache
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.output.cache
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorCoreGenerate.cache
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Inszoom\Index.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cache
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cs
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Sagar Bammigatti\Downloads\insdapper\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CopyComplete
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.deps.json
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.json
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.dev.json
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.dll
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.csprojAssemblyReference.cache
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CoreCompileInputs.cache
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cache
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfoInputs.cache
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfo.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.input.cache
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.output.cache
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorCoreGenerate.cache
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Inszoom\Index.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cache
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cs
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Sagar Bammigatti\source\repos\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CopyComplete
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.deps.json
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.json
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.runtimeconfig.dev.json
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.dll
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\bin\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.csprojAssemblyReference.cache
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CoreCompileInputs.cache
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cache
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorAssemblyInfo.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfoInputs.cache
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.AssemblyInfo.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.input.cache
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.TagHelpers.output.cache
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorCoreGenerate.cache
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Inszoom\Index.g.cshtml.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cache
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.RazorTargetAssemblyInfo.cs
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.Views.pdb
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.dll
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.pdb
+C:\Users\Unnati\Documents\INS\INSzoomWebScraping-7\insdapper\obj\Debug\netcoreapp2.1\insdapper.csproj.CopyComplete

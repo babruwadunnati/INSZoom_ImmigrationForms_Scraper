@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<body>
+    <br />
+    <div >
+    @using (Html.BeginForm(FormMethod.Post))
+    {
+        <input type="submit" value="Change Table" formaction="@Url.Action("Change", "Home")" />
+        <input type="submit" value="Forms" formaction="@Url.Action("Forms", "Home")" />
+        <input type="submit" value="Instructions" formaction="@Url.Action("Instructions", "Home")" />
+    }
+    </div>
+
+
+    <hr />
+    <center>
+    <img src="~/Images/inszoomlogo.png" width="500" height="300" /><br />
+        </center>
+    <p class="jumbotron">INSZOOM is an immigration software company, with software solutions for immigration lawyers, corporations, universities, healthcare organizations and non-profit groups. The forms and fields in the government immigration websites keep changing frequently and the business always demands to have updated forms being made available to all the customers of Inszoom.   We propose an automatic real-time solution which checks for changes in the online immigration forms of the government websites and logs the changes in the database which is viewed by the company through a front-end GUI.  This reduces the burden of manually checking numerous online forms and provides an efficient method of synchronization between online immigration forms in the government website and the company’s database. </p>
+</body>

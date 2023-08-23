@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<body>
+    <h2>Forms</h2><br />
+    @using (Html.BeginForm(FormMethod.Post))
+    {
+        <input type="submit" value="Change Table" formaction="@Url.Action("Change", "Home")" />
+        <input type="submit" value="Forms" formaction="@Url.Action("Forms", "Home")" />
+        <input type="submit" value="Instructions" formaction="@Url.Action("Instructions", "Home")" />
+    }
+
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="AddorEdit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <br />
+
+                    <div class="form-group">
+                        <label>Country</label>
+                        <input asp-for="Instruction_type" class="form-control" />
+                        <span asp-validation-for="Instruction_type" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label>Form Name</label>
+                        <input asp-for="Instuction_value" class="form-control" />
+                        <span asp-validation-for="Instuction_value" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Immigration Website URL</label>
+                        <input asp-for="Instuction_value" class="form-control" />
+                        <span asp-validation-for="Instuction_value" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-default" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+</body>

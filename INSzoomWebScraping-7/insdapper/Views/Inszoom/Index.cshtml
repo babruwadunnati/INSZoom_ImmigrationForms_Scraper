@@ -1,0 +1,54 @@
+﻿@model IEnumerable<insdapper.Models.CheckAdd>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Change_time)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Change_type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Old_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.New_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Page_id)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Change_time)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Change_type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Old_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.New_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Page_id)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
