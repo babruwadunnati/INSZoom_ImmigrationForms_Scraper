@@ -20,3 +20,16 @@ websites in real time.
 * Update database to reflect the changes on the page.
 * Reflect the database updates on a frontend console.
 * Make the solution generic to handle forms from different government websites.
+
+## Methodology
+  <img width="1138" alt="Screenshot 2023-08-23 at 4 13 33 PM" src="https://github.com/babruwadunnati/INSZoom_ImmigrationForms_Scraper/assets/40277323/f2bc0d81-c5c6-400e-8aa4-91e74bc046ba">
+
+## Results
+A snapshot of the crawling process:
+<img width="985" alt="Screenshot 2023-08-23 at 4 17 23 PM" src="https://github.com/babruwadunnati/INSZoom_ImmigrationForms_Scraper/assets/40277323/03cd50ff-7ccd-4e0a-bc5a-709590541611">
+
+Database Snapshot:
+<img width="930" alt="Screenshot 2023-08-23 at 4 17 50 PM" src="https://github.com/babruwadunnati/INSZoom_ImmigrationForms_Scraper/assets/40277323/cb5f751f-dbe3-41b7-a2bd-54f2d0b380c4">
+
+Snapshot of the frontend showcasing form changes:
+<img width="861" alt="Screenshot 2023-08-23 at 4 16 14 PM" src="https://github.com/babruwadunnati/INSZoom_ImmigrationForms_Scraper/assets/40277323/13cabbdc-9147-436f-a5ba-4158dd07dbbf">
